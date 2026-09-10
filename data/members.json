@@ -10,21 +10,21 @@
         "id": 1,
         "name": "Mensah Auto Centre",
         "description": "Specialising in Japanese and German imports. Servicing, repairs, and sales.",
-        "image": "/images/placeholder-garage.jpg",
+        "image": "/images/gar1.jpg",
         "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
       },
       {
         "id": 2,
         "name": "Accra Motors Hub",
         "description": "Pre-owned vehicles, spare parts, and full body work.",
-        "image": "/images/placeholder-garage.jpg",
+        "image": "/images/gar2.jpg",
         "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
       },
       {
         "id": 3,
         "name": "Tema Port Dealership",
         "description": "Direct imports and clearing services at Tema port.",
-        "image": "/images/placeholder-garage.jpg",
+        "image": "/images/gar3.jpg",
         "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
       }
     ]

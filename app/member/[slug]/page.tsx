@@ -38,7 +38,7 @@ export default async function MemberPage({
       {/* Top bar */}
       <header className={styles.topBar}>
         {/* Replace this div with <img src="/images/logo.png" alt="GCA Logo" className={styles.logo} /> */}
-        <div className={styles.logoPlaceholder}>GCA</div>
+        <img src="/images/logo2.png" alt="GCA Logo" className={styles.logo} />
       </header>
 
       {/* Member card */}
@@ -64,7 +64,7 @@ export default async function MemberPage({
             <div key={garage.id} className={styles.garageTile}>
               {/* Garage image — top ~70% */}
               <div className={styles.garageImageWrap}>
-                <div className={styles.garageImagePlaceholder} />
+                <img src={garage.image} alt={garage.name} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
               </div>
 
               {/* Info strip — bottom ~30% */}
