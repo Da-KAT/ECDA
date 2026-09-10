@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "kofi-mensah",
+    "name": "Kofi Mensah",
+    "role": "Senior Member",
+    "membershipId": "GCA-2024-001",
+    "photo": "/images/placeholder-member.jpg",
+    "garages": [
+      {
+        "id": 1,
+        "name": "Mensah Auto Centre",
+        "description": "Specialising in Japanese and German imports. Servicing, repairs, and sales.",
+        "image": "/images/placeholder-garage.jpg",
+        "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
+      },
+      {
+        "id": 2,
+        "name": "Accra Motors Hub",
+        "description": "Pre-owned vehicles, spare parts, and full body work.",
+        "image": "/images/placeholder-garage.jpg",
+        "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
+      },
+      {
+        "id": 3,
+        "name": "Tema Port Dealership",
+        "description": "Direct imports and clearing services at Tema port.",
+        "image": "/images/placeholder-garage.jpg",
+        "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
+      }
+    ]
+  },
+  {
+    "slug": "ama-boateng",
+    "name": "Ama Boateng",
+    "role": "Executive Member",
+    "membershipId": "GCA-2024-002",
+    "photo": "/images/placeholder-member.jpg",
+    "garages": [
+      {
+        "id": 1,
+        "name": "Boateng Premium Cars",
+        "description": "Luxury and executive vehicle sales. Brand new and certified pre-owned.",
+        "image": "/images/placeholder-garage.jpg",
+        "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
+      },
+      {
+        "id": 2,
+        "name": "Kumasi Auto Yard",
+        "description": "Affordable family vehicles and commercial trucks. Easy financing available.",
+        "image": "/images/placeholder-garage.jpg",
+        "mapsUrl": "https://maps.google.com/?q=5.6037,−0.1870"
+      }
+    ]
+  }
+]
