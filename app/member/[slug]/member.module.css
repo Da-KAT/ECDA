@@ -19,13 +19,16 @@
 }
 
 .assocName {
+  font-family: 'Cormorant Garamond', serif;
   color: #FFFFFF;
   font-size: 0.85rem;
   font-weight: 600;
   margin-left: 0.75rem;
   letter-spacing: 0.01em;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.4;
 }
-
 .logoPlaceholder {
   width: 56px;
   height: 56px;
@@ -77,6 +80,7 @@
   font-size: 1.2rem;
   font-weight: 700;
   line-height: 1.2;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .memberRole {
@@ -167,6 +171,7 @@
   font-weight: 700;
   color: #FFFFFF;
   line-height: 1.2;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .garageDesc {

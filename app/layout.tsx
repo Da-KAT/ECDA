@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ghana Car Dealers Association",
-  description: "Member directory for the Ghana Car Dealers Association",
+  title: "Executive Car Dealers Association",
+  description: "Member directory for the Executive Car Dealers Association",
+  icons: {
+    icon: "/images/logo2.png",
+  },
 };
 
 export default function RootLayout({
