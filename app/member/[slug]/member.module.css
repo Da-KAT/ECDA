@@ -58,13 +58,13 @@
   flex-shrink: 0;
 }
 
-.memberPhotoPlaceholder {
+/* .memberPhotoPlaceholder {
   width: 76px;
   height: 76px;
   border-radius: 50%;
   background-color: #1A2E45;
   border: 2px solid #C9A84C;
-}
+} */
 
 .memberInfo {
   display: flex;
