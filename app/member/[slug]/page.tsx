@@ -39,6 +39,7 @@ export default async function MemberPage({
       <header className={styles.topBar}>
         {/* Replace this div with <img src="/images/logo.png" alt="GCA Logo" className={styles.logo} /> */}
         <img src="/images/logo2.png" alt="GCA Logo" className={styles.logo} />
+         <span className={styles.assocName}>Executive Car Dealers Association</span>
       </header>
 
       {/* Member card */}
