@@ -54,6 +54,8 @@ export default async function MemberPage({
         </div>
       </section>
 
+      <div className={styles.divider} />
+
       {/* Garages section */}
       <section className={styles.garagesSection}>
         <h2 className={styles.garagesHeading}>Garages</h2>
@@ -77,7 +79,7 @@ export default async function MemberPage({
                   rel="noopener noreferrer"
                   className={styles.mapsBtn}
                 >
-                  📍 Maps
+                  Open in Google Maps
                 </a>
               </div>
             </div>
