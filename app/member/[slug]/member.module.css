@@ -11,16 +11,24 @@
   padding: 1rem 1.5rem;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   position: sticky;
   top: 0;
   z-index: 10;
   border-bottom: 1px solid #1A2E45;
 }
 
+.assocName {
+  color: #FFFFFF;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-left: 0.75rem;
+  letter-spacing: 0.01em;
+}
+
 .logoPlaceholder {
-  width: 44px;
-  height: 44px;
+  width: 56px;
+  height: 56px;
   border-radius: 8px;
   background-color: #C9A84C;
   color: #0D1B2A;
@@ -33,7 +41,7 @@
 }
 
 .logo {
-  height: 44px;
+  height: 56px;
   width: auto;
   object-fit: contain;
 }
@@ -165,6 +173,14 @@
   font-size: 0.78rem;
   color: #6B82A0;
   line-height: 1.55;
+}
+
+.memberPhoto {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #C9A84C;
 }
 
 /* outlined gold rounded button */

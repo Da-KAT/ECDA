@@ -44,8 +44,7 @@ export default async function MemberPage({
       {/* Member card */}
       <section className={styles.memberCard}>
         <div className={styles.memberPhotoWrap}>
-          {/* Replace src with member.photo once real images are added */}
-          <div className={styles.memberPhotoPlaceholder} />
+          <img src={member.photo} alt={member.name} className={styles.memberPhoto} />
         </div>
         <div className={styles.memberInfo}>
           <h1 className={styles.memberName}>{member.name}</h1>
